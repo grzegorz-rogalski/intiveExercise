@@ -1,0 +1,38 @@
+baza danych dla intive na mikołaja
+Problemy
+2 rodziców w jednej firmie i jedno dziecko
+
+
+
+Baza sql
+pracownik
+id
+id_dziecka
+imię
+nazwisko
+adres dostawy
+
+dziecko
+id
+imię
+nazwisko(dziecko z poprzedniego małżeństwa)
+PESEL uniqe
+
+procedury:
+zwrocListeDzieci(wiek)
+
+Czat wysokowydajnościowy - rozmowy 1 vs 1(możliwy jest ruch 1000 jak i 1M)
+Problemy:
+przechowywanie danych
+skalowalność
+
+technologie
+   AWS wraz z Kubernetes (EKS) - skalowalność daje AWS - można wyznaczyć reguły powielanie podów
+
+
+
+
+
+
+
+
