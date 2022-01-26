@@ -29,7 +29,7 @@ id
 imię
 nazwisko(dziecko z poprzedniego małżeństwa)
 PESEL uniqe
-
+sdf
 procedury:
 zwrocListeDzieci(wiek)
 
